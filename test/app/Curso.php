@@ -6,6 +6,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class Curso extends Model
 {
+
+    public $timestamps = false;
+    
     public function kits() { 
         return $this->hasOne(Kits_de_robotica::class); 
     } 
