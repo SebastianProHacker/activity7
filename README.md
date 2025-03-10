@@ -11,7 +11,6 @@ Este proyecto se ha desarrollado utilizando el framework **Laravel de PHP** con 
 
 ## Requisitos
 - PHP 7.4 o superior
-- Composer
 - Laravel 8.x o superior
 - Base de datos (MySQL)
 
