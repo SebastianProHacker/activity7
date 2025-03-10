@@ -17,6 +17,6 @@ Este proyecto se ha desarrollado utilizando el framework **Laravel de PHP** con 
 ## Instalación
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/actividad7-diseno-web.git
+   git clone https://github.com/SebastianProHacker/activity7.git
 
 ![Captura de pantalla 2025-03-10 004236](https://github.com/user-attachments/assets/a1ae1f02-8c48-4373-aa09-3af2e254f26f)
